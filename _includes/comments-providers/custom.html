@@ -1,0 +1,126 @@
+<!-- start custom comments snippet -->
+
+<style type="text/css">
+  /* Basic Grey */
+  .basic-grey {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    background: #f7f7f7;
+    padding: 25px 15px 25px 10px;
+    font: 12px Georgia, "Times New Roman", Times, serif;
+    color: #888;
+    text-shadow: 1px 1px 1px #fff;
+    border: 1px solid #e4e4e4;
+  }
+  .basic-grey h1 {
+    font-size: 25px;
+    padding: 0px 0px 10px 40px;
+    display: block;
+    border-bottom: 1px solid #e4e4e4;
+    margin: -10px -15px 30px -10px;
+    color: #888;
+  }
+  .basic-grey h1 > span {
+    display: block;
+    font-size: 11px;
+  }
+  .basic-grey label {
+    display: block;
+    margin: 0px;
+  }
+  .basic-grey label > span {
+    float: left;
+    width: 20%;
+    text-align: right;
+    padding-right: 10px;
+    margin-top: 10px;
+    color: #888;
+  }
+  .basic-grey input[type="text"],
+  .basic-grey input[type="email"],
+  .basic-grey textarea,
+  .basic-grey select {
+    border: 1px solid #dadada;
+    color: #888;
+    height: 30px;
+    margin-bottom: 16px;
+    margin-right: 6px;
+    margin-top: 2px;
+    outline: 0 none;
+    padding: 3px 3px 3px 5px;
+    width: 70%;
+    font-size: 12px;
+    line-height: 15px;
+    box-shadow: inset 0px 1px 4px #ececec;
+    -moz-box-shadow: inset 0px 1px 4px #ececec;
+    -webkit-box-shadow: inset 0px 1px 4px #ececec;
+  }
+  .basic-grey textarea {
+    padding: 5px 3px 3px 5px;
+  }
+  .basic-grey select {
+    background: #fff url("down-arrow.png") no-repeat right;
+    background: #fff url("down-arrow.png") no-repeat right;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 0.01px;
+    text-overflow: "";
+    width: 70%;
+    height: 35px;
+    line-height: 25px;
+  }
+  .basic-grey textarea {
+    height: 100px;
+  }
+  .basic-grey .button {
+    background: #e27575;
+    border: none;
+    padding: 10px 25px 10px 25px;
+    color: #fff;
+    box-shadow: 1px 1px 5px #b6b6b6;
+    border-radius: 3px;
+    text-shadow: 1px 1px 1px #9e3f3f;
+    cursor: pointer;
+  }
+  .basic-grey .button:hover {
+    background: #cf7a7a;
+  }
+</style>
+
+<div class="basic-grey">
+  <h1>
+    Contact Form
+    <span>Please fill all the texts in the fields.</span>
+  </h1>
+  <label>
+    <span>Your Name :</span>
+    <input id="name" type="text" name="name" placeholder="Your Full Name" />
+  </label>
+  <label>
+    <span>Your Email :</span>
+    <input
+      id="email"
+      type="email"
+      name="email"
+      placeholder="Valid Email Address"
+    />
+  </label>
+
+  <label>
+    <span>Message :</span>
+    <textarea
+      id="message"
+      name="message"
+      placeholder="Your Message to Us"
+    ></textarea>
+  </label>
+
+  <label>
+    <span>&nbsp;</span>
+    <input type="button" class="button" value="Send" />
+  </label>
+</div>
+
+<!-- end custom comments snippet -->
