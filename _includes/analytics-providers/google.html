@@ -13,16 +13,12 @@
 		{% endif %}
 
 
-		$('a').bind('click', function () {
-			alert('click');
-		});
-
-		$(document).ready(function () {
-			$('a').bind('click', function () {
-				let url = $(this).attr('href');
-				// alert('click');
-				gtag('event', 'a_url', { 'event_name': "a_url", 'url': url });
-			});
-		});
+		// $(document).ready(function () {
+		// 	$('a').bind('click', function () {
+		// 		let url = $(this).attr('href');
+		// 		// alert('click');
+		// 		gtag('event', 'a_url', { 'event_name': "a_url", 'url': url });
+		// 	});
+		// });
 	</script>
 {%- endif -%}
