@@ -1,63 +1,60 @@
 ---
-title: 新生特刊
+title: 第十三期
 comment: false
 _license: false
 ---
 
-### 本期引语
+### 汽车问题
 
-> 「一期一会」作为“给北邮同学的技术半月刊”，十分欢迎新同学加入北邮这个大家庭，并希望提供尽我们所能的帮助，陪伴你们成长。本期是面向新生的一期特刊，其中精选了若干篇覆盖从自我培养、创赛经验到技术分享的优质文章，我们期待这些文章能让新朋友你更快地开始大学生活，更快地步入技术的殿堂。
-
-### 给新朋友的一封信
-
-[https://raq01kgu3qt.feishu.cn/docx/C3MUd0FUmomWWYxDWHFcAHysncd?from=from_copylink](https://raq01kgu3qt.feishu.cn/docx/C3MUd0FUmomWWYxDWHFcAHysncd?from=from_copylink)
+[http://www.cs.cmu.edu/~wkw/humour/carproblems.txt](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
 
 - Tag: #杂谈
 
-- 作者: 《一期一会》编辑部
+- 作者: -
 
 - 编者语:
-    本期特刊第一篇为编辑部写给各位新朋友的信，我们希望说些我们心里对你们的话，并借此机会让你们了解一期一会。
+    这是一篇经典且有趣的“寓言故事”，分析了汽车点火与香草冰淇淋的关系，告诉我们有时即使是看似最荒谬的问题也有着真实和合理的解释，因此彻底调查它们以找到真正的原因是至关重要的。读者可以读来消遣，也可能会获得自己的思考。
 
-### 埋头苦干三年不会是为了考研
+### 互联网与中国后现代性呓语
 
-[https://mp.weixin.qq.com/s/atnB--Hc1lKJrnq96vxMcg](https://mp.weixin.qq.com/s/atnB--Hc1lKJrnq96vxMcg)
+[https://grd1kevm20.feishu.cn/docs/doccnVL5FwOmPpvCU5NX5lCJljd](https://grd1kevm20.feishu.cn/docs/doccnVL5FwOmPpvCU5NX5lCJljd)
 
-- Tag: #经验分享
+- Tag: #杂谈 #观点
 
-- 作者: 思维泛滥
+- 作者: 评论尸 虹线
 
-- 编者语:
-    脱离了高中模式的新同学们，你们是否会在走在人群接踵的王府井里或是感受北京晚高峰车水马龙时感到一丝兴奋，会在进入自在的大学校园或是看到留白手法的课表后感到一丝迷茫；又或许你对大学的学习阶段有些了解，不时留意自己专业的保研率与加分列表，思考如何发挥自己的存量优势。“大学生活是高中老师说的那样吗？”“我该如何培养自己？”这篇文章或许会为刚入学的你们提供一些参考与带来新的视野。
+- 编者语: 
+    本文较长。互联网行业不只有开发与技术，还有白酒和世故；不只有整洁美丽的圣殿，还有繁杂肮脏的泥潭。本文作者讲述了他对当代直播带货、网红、躺平、内卷的思考，并试图解释：为什么作为整体性的人类社会仍在进步，而个体却越发地难以从中受益，或越发难以感受到这种受益？本文是一篇比较哲学的文章，比较有意思，值得一看，希望能带给读者一些启发。
 
-### 通俗直观介绍ChatGPT背后的大语言模型理论知识
+ ### Introduction to Linux interfaces for virtual networking
 
-[https://mp.weixin.qq.com/s/IR0flZGOyul9BHuDYPnljg](https://mp.weixin.qq.com/s/IR0flZGOyul9BHuDYPnljg)
+[https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
 
-- Tag: #生成式AI #ChatGPT
+- Tag: #Linux #网络
 
-- 作者: 腾讯技术工程
-
-- 编者语:
-    2022年年底 ChatGPT 破圈大火，并打开了互联网与 AI 行业的新局面，开启了 AI 大模型时代，乃至于揭开第四次工业革命的序幕。所以，对于作为准从业者的新朋友而言，我们是需要紧追浪潮、跟上新时代地去学习有关 ChatGPT 的知识。本篇文章“说人话”地从概念层面轻松地讲述了 GhatGPT 的底层原理，希望能让各位感兴趣的新同学们建立对大模型学习能力的整体概念，与对 ChatGPT 的理解。
-
-### 本科生创赛指南
-
-[https://lan-future.feishu.cn/docx/Tn1vdGLXbol6xWxssLRcp3fOnec?from=from_copylink](https://lan-future.feishu.cn/docx/Tn1vdGLXbol6xWxssLRcp3fOnec?from=from_copylink)
-
-- Tag: #经验分享 #创赛
-
-- 作者: 蓝图创新工作室
+- 作者: Hangbin Liu
 
 - 编者语:
-    创新性比赛是大学中很重要的一类比赛。相较于各位新同学中学时代所接触的学科类竞赛对专项能力的很高要求，这类比赛对需求发觉能力、项目规划能力，团队管理能力等综合能力会提出一定要求，且会更接近于工作中的工程运转，参加创新性比赛会为新同学们带来工程综合能力的提升与可观的德育乃至竞保研加分。希望这篇文章可以为新同学们提供对新领域 —— 创赛的帮助。
+    Linux 中有着服务于云环境、虚拟机和容器的丰富的虚拟网络能力，本文介绍了 Linux 中常见的虚拟网络接口类型，希望可以对一部分读者产生帮助，提高对于它们的应用能力。
 
-### Why Nvidia’s AI Supremacy is Only Temporary
+### 整洁架构在前端的设计思想与应用实践
 
-[https://petewarden.com/2023/09/10/why-nvidias-ai-supremacy-is-only-temporary/](https://petewarden.com/2023/09/10/why-nvidias-ai-supremacy-is-only-temporary/)
+[https://mp.weixin.qq.com/s/zGJljF6NxcYIe-evv8d0DA](https://mp.weixin.qq.com/s/zGJljF6NxcYIe-evv8d0DA)
 
-- Tag: #生成式AI #观点
+- Tag: #经验
 
-- 作者: Pete Warden
+- 作者: MoonWebTeam 腾讯技术工程
 
-- 编者语: 得益于 CUDA 计算平台，大火的 ChatGPT 给布局 AI 十多年的 NVidia 助推了一大步，让老黄的公司成为了世界第九个市值破一亿美元的公司。然而，如日中天的 NVidia 还能保持这样的地位多久？这篇文章提出了四个预测，给了我们一个不同的视角，带我们思考未来的 AI 世界可能会是什么样子。
+- 编者语:
+    对于每一个软件产品，“行为”与“架构”这两个维度都是十分重要的，“行为”满足了需求，而“架构”控制着系统复杂度。在实际开发之中，“行为”往往更加紧急，而“架构”往往很重要但不那么紧急，于是常常被忽视。本文从架构的基本概念讲起，介绍了整洁架构的设计思想，以及如何在前端中应用整洁架构，希望能帮助读者在开发中更好地控制系统复杂度。
+
+### WebAssembly 模块化与动态链接
+
+[https://mp.weixin.qq.com/s/MPBwFuL2CYFVXIowoB542A](https://mp.weixin.qq.com/s/MPBwFuL2CYFVXIowoB542A)
+
+- Tag: #前端
+
+- 作者: 姚忠孝 字节前端 ByteFE
+
+- 编者语:
+    模块化编程起源于20世纪70年代，与80年代开始广泛传播，是分离关注点(SoC)原则的具体体现，意在提高代码可维护性与扩展性，提升团队开发效率等。而单一的模块单元往往无法单独运行，这就会涉及动态链接机制。本文以 WebAssembly 的模块化演进入手，详细介绍了它的模块化与动态链接设计、当前情况与未来趋势。
