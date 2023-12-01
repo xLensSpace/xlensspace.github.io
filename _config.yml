@@ -22,7 +22,7 @@ url     : https://weekly.xlens.space # the base hostname & protocol for your sit
 baseurl : # does not include hostname
 title   : 一期一会
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+    为昨日布道，为明日寻径
 
 
 ## => Language and Timezone
